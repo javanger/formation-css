@@ -1,9 +1,14 @@
 * {
     font-family: 'Helvetica', 'Arial';
+    margin: 0px;
+    padding: 0px;
 }
-html {
+
+body {
     background-color: #000099 ;
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 h1 {
@@ -19,11 +24,14 @@ li, input {
     border-style: none;
     background-color: white;  
     margin: 5px;
-    border-radius: 5px 5px 5px 5px;
     padding: 10px;
 }
 
-input {
+li {
+    border-radius: 5px 5px 5px 5px;
+}
+
+input[type="text"] {
     border-radius: 3px 3px 3px 3px;
 }
 
