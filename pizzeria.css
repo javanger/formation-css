@@ -1,0 +1,35 @@
+body{
+  background-color: #EFECCA;
+  font-family: 'Helvetica', 'Arial';
+}
+h1{
+  color: #C03000;
+}
+
+h2{
+  color: #4BB5C1;
+}
+
+li{
+  display: inline;
+  list-style-type: none;
+}
+
+li a{
+  text-decoration: none;
+  color: white;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: #C03000;
+  border-color : #660000;
+}
+
+li a:hover, li a:focus{
+    background-color: #009900;
+    text-decoration: underline;
+}
+
+footer a{
+  color: #0000FF;
+  text-decoration: none;
+}
