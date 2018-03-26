@@ -1,0 +1,30 @@
+body{
+    background-color: #EFECCA; 
+    font-family: 'Helvetica', 'Arial';
+}
+h1{
+    color: #C03000;
+}
+h2{
+    color: #4BB5C1;
+}
+a{
+    text-decoration: none;
+}
+li{
+    display: inline;
+}
+li a{
+    padding: 5px 20px;
+    background: #C03000;
+    color: #FFFFFF;
+    border: 1px solid #660000
+}
+li a:hover, li a:focus, li a:active{
+    background: #009900;
+    text-decoration: underline;
+}
+#contact{
+    color: #0000FF;
+    font-weight: bold;
+}
