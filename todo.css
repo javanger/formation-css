@@ -1,0 +1,39 @@
+body{
+    background-color: #000099; 
+    text-align: center;
+    
+}
+h1{
+    color:white;
+    font-family:Helvetica;
+    
+}
+
+.item{
+    border-width: 5px 5px 5px 5px;
+    border-color: black;
+    background-color: white;
+    border-radius: 5px;
+    margin-left: -10px;
+    margin-right: 25px;
+    text-align: center;
+    list-style-type: none;
+    font-family: Helvetica;
+    
+}
+li{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 12px;
+    
+}
+input[type="submit"]{
+
+    border-radius: 8px;
+}
+
+input[type="text"]{
+    border-radius: 3px;
+
+}
+
