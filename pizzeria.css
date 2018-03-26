@@ -28,7 +28,7 @@ a{
     text-decoration: none;
 }
 
-li a:hover, a:focus{
+li a:hover, li a:focus{
     background-color: #009900;
     text-decoration: underline;
 
