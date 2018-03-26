@@ -1,0 +1,41 @@
+body{
+  background-color: #EFECCA;
+  font-family: 'Helvetica', 'Arial';
+}
+
+h1{
+  color: #C03000;
+  margin: 0px auto;
+}
+
+h2{
+  color: #4BB5C1;
+}
+
+ul{
+  padding: 0;
+  margin: 20px;
+}
+
+li{
+  display:inline;
+  list-style-type: none;
+}
+
+li a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  background-color: #C03000;
+  border: 1px solid #660000;
+}
+
+li a:hover, li a:focus{
+  background-color: #009900;
+  text-decoration: underline;
+}
+
+footer a{
+  text-decoration: none;
+  color: #0000FF;
+}
