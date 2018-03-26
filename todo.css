@@ -1,0 +1,37 @@
+body{
+  background: #000099;
+  font-family: 'Helvetica', 'Arial';
+  text-align: center;
+}
+
+h1{
+  color: white;
+}
+
+ul{
+  padding: 0;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+li{
+  background-color: white;
+  font-size: 20px;
+  list-style-type: none;
+  border-radius: 5px;
+  border: 1px solid #000;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+input[type='text']{
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+input[type='submit']{
+  font-size: 15px;
+  padding: 10px;
+  border-radius: 8px;
+}
